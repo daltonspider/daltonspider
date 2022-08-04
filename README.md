@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dalton Spider</h1>
-<h3 align="center">Apaixonado por TI</h3>
+<h3 align="left">Hi 👋, I'm Dalton Spider</h3>
+
+<h4 align="left">Apaixonado por TI</h4>
 
 
 
