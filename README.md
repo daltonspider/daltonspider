@@ -17,7 +17,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daltonspider&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daltonspider" /></p>
-
+<--
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=daltonspider&show_icons=true&theme=dracula&locale=en" alt="daltonspider" /></p>
-
+-->
 
