@@ -2,6 +2,8 @@
 
 <h4 align="left">Apaixonado por TI</h4>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daltonspider&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daltonspider" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +18,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daltonspider&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daltonspider" /></p>
+
 <!--
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=daltonspider&show_icons=true&theme=dracula&locale=en" alt="daltonspider" /></p>
 -->
