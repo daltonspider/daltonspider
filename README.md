@@ -3,7 +3,7 @@
 
 <h4 align="left">I hate being on social media but sometimes I share some stuff on YouTube and cool news on facebook</h4>
 <p align="left">
-  <a href="https://youtube.com/daltonspiderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daltonspider" height="30" width="40" /></a>
+  <a href="[https://youtube.com/daltonspiderr](https://www.youtube.com/channel/UCzEVFgcaCFCvNhIix--ezhg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daltonspider" height="30" width="40" /></a>
 <a href="https://twitter.com/daltonspider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daltonspider" height="30" width="40" /></a>
 <a href="https://fb.com/daltonspider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daltonspider" height="30" width="40" /></a>
 <a href="https://instagram.com/daltonspider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daltonspider" height="30" width="40" /></a>
